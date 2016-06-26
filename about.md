@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I'm an IT Security professional, blogging about privacy in todays Information Age. 
+Things
 
 ### Contact me
 
